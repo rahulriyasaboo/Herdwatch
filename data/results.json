@@ -1,0 +1,55 @@
+{
+  "dataset_rows": 10000,
+  "synthetic_target_counts": {
+    "healthy": 8527,
+    "sick": 1473
+  },
+  "sequence_samples": 9700,
+  "train_cows": 105,
+  "test_cows": 45,
+  "train_samples_after_smote": 11618,
+  "test_samples_untouched": 2890,
+  "test_sick_prevalence": 0.1477508650519031,
+  "hybrid_lstm_xgboost": {
+    "accuracy": 0.9968858131487889,
+    "precision": 0.9906103286384976,
+    "recall": 0.9882903981264637,
+    "f1": 0.9894490035169988,
+    "false_positive_rate": 0.0016240357287860333,
+    "auc_roc": 0.997204528663565,
+    "confusion_matrix": {
+      "tn": 2459,
+      "fp": 4,
+      "fn": 5,
+      "tp": 422
+    }
+  },
+  "raw_feature_xgboost": {
+    "accuracy": 0.9961937716262976,
+    "precision": 0.985981308411215,
+    "recall": 0.9882903981264637,
+    "f1": 0.9871345029239766,
+    "false_positive_rate": 0.00243605359317905,
+    "auc_roc": 0.9999125226656626,
+    "confusion_matrix": {
+      "tn": 2457,
+      "fp": 6,
+      "fn": 5,
+      "tp": 422
+    }
+  },
+  "paper_baselines_kaur_virk_2025": {
+    "random_forest": {
+      "accuracy": 0.9246,
+      "precision": 0.9236,
+      "f1": 0.9236
+    },
+    "xgboost": {
+      "accuracy": 0.8591,
+      "precision": 0.5859,
+      "f1": 0.7372
+    },
+    "doi": "https://doi.org/10.1007/s43926-025-00109-5"
+  },
+  "note": "Synthetic demonstration only. Do not interpret these metrics as field performance."
+}

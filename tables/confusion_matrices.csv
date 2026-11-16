@@ -1,0 +1,3 @@
+Model,TN,FP,FN,TP
+Hybrid LSTM-XGBoost,2459,4,5,422
+Raw-feature XGBoost,2457,6,5,422

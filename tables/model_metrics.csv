@@ -1,0 +1,5 @@
+Model,Data source,Accuracy,Precision,Recall,F1,FPR,AUC-ROC
+Hybrid LSTM-XGBoost,Synthetic,0.9968858,0.9906103,0.9882904,0.9894490,0.0016240,0.9972045
+Raw-feature XGBoost,Synthetic,0.9961938,0.9859813,0.9882904,0.9871345,0.0024361,0.9999125
+Random Forest,Kaur and Virk 2025,0.9246,0.9236,not reported,0.9236,not reported,not reported
+XGBoost,Kaur and Virk 2025,0.8591,0.5859,not reported,0.7372,not reported,not reported

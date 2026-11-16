@@ -1,0 +1,35 @@
+[1] Kaur, D., & Virk, A. K. (2025). Smart neck collar: IoT-based disease detection and health monitoring for dairy cows. Discover Internet of Things, 5, Article 12. https://doi.org/10.1007/s43926-025-00109-5
+
+[2] Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). SMOTE: Synthetic minority over-sampling technique. Journal of Artificial Intelligence Research, 16, 321-357. https://doi.org/10.1613/jair.953
+
+[3] Hochreiter, S., & Schmidhuber, J. (1997). Long short-term memory. Neural Computation, 9(8), 1735-1780. https://doi.org/10.1162/neco.1997.9.8.1735
+
+[4] Chen, T., & Guestrin, C. (2016). XGBoost: A scalable tree boosting system. Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 785-794. https://doi.org/10.1145/2939672.2939785
+
+[5] Fawcett, T. (2006). An introduction to ROC analysis. Pattern Recognition Letters, 27(8), 861-874. https://doi.org/10.1016/j.patrec.2005.10.010
+
+[6] Saito, T., & Rehmsmeier, M. (2015). The precision-recall plot is more informative than the ROC plot when evaluating binary classifiers on imbalanced datasets. PLOS ONE, 10(3), e0118432. https://doi.org/10.1371/journal.pone.0118432
+
+[7] He, H., & Garcia, E. A. (2009). Learning from imbalanced data. IEEE Transactions on Knowledge and Data Engineering, 21(9), 1263-1284. https://doi.org/10.1109/TKDE.2008.239
+
+[8] Roberts, D. R., Bahn, V., Ciuti, S., Boyce, M. S., Elith, J., Guillera-Arroita, G., Hauenstein, S., Lahoz-Monfort, J. J., Schröder, B., Thuiller, W., Warton, D. I., Wintle, B. A., Hartig, F., & Dormann, C. F. (2017). Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure. Ecography, 40(8), 913-929. https://doi.org/10.1111/ecog.02881
+
+[9] Collins, G. S., Reitsma, J. B., Altman, D. G., & Moons, K. G. M. (2015). Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis (TRIPOD): The TRIPOD Statement. Journal of Clinical Epidemiology, 68(2), 134-143. https://doi.org/10.1016/j.jclinepi.2014.11.010
+
+[10] Van Calster, B., McLernon, D. J., van Smeden, M., Wynants, L., & Steyerberg, E. W. (2019). Calibration: the Achilles heel of predictive analytics. BMC Medicine, 17, 230. https://doi.org/10.1186/s12916-019-1466-7
+
+[11] Cerri, R. L. A., Burnett, T. A., Madureira, A. M. L., Silper, B. F., Denis-Robichaud, J., LeBlanc, S., Cooke, R. F., & Vasconcelos, J. L. M. (2021). Symposium review: Linking activity-sensor data and physiology to improve dairy cow fertility. Journal of Dairy Science, 104(1), 1220-1231. https://doi.org/10.3168/jds.2019-17893
+
+[12] Kang, X., Zhang, X. D., & Liu, G. (2021). A Review: Development of Computer Vision-Based Lameness Detection for Dairy Cows and Discussion of the Practical Applications. Sensors, 21(3), 753. https://doi.org/10.3390/s21030753
+
+[13] O'Leary, N. W., Byrne, D. T., O'Connor, A. H., & Shalloo, L. (2020). Invited review: Cattle lameness detection with accelerometers. Journal of Dairy Science, 103(5), 3895-3911. https://doi.org/10.3168/jds.2019-17123
+
+[14] Rutten, C. J., Velthuis, A. G. J., Steeneveld, W., & Hogeveen, H. (2013). Invited review: Sensors to support health management on dairy farms. Journal of Dairy Science, 96(4), 1928-1952. https://doi.org/10.3168/jds.2012-6107
+
+[15] Hendriks, S. J., Phyn, C. V. C., Huzzey, J. M., Mueller, K. R., Turner, S., Donaghy, D. J., & Roche, J. R. (2020). Graduate Student Literature Review: Evaluating the appropriate use of wearable accelerometers in research to monitor lying behaviors of dairy cows. Journal of Dairy Science, 103(12), 12140-12157. https://doi.org/10.3168/jds.2019-17887
+
+[16] Lora, I., Gottardo, F., Contiero, B., Zidi, A., Magrin, L., Cassandro, M., & Cozzi, G. (2020). A survey on sensor systems used in Italian dairy farms and comparison between performances of similar herds equipped or not equipped with sensors. Journal of Dairy Science, 103(11), 10264-10272. https://doi.org/10.3168/jds.2019-17973
+
+[17] Stone, A. E. (2020). Symposium review: The most important factors affecting adoption of precision dairy monitoring technologies. Journal of Dairy Science, 103(6), 5740-5745. https://doi.org/10.3168/jds.2019-17148
+
+[18] Grinter, L. N., Campler, M. R., & Costa, J. H. C. (2019). Technical note: Validation of a behavior-monitoring collar's precision and accuracy to measure rumination, feeding, and resting time of lactating dairy cows. Journal of Dairy Science, 102(4), 3487-3494. https://doi.org/10.3168/jds.2018-15563
